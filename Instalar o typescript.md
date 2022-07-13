@@ -1,4 +1,4 @@
-###Instalação e preparação do Typescript no VS Code
+### Instalação e preparação do Typescript no VS Code
 
 <br>
 <br>
